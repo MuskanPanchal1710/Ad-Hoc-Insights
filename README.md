@@ -48,7 +48,8 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
    **product_count_2021** 
    
    **difference** 
-   
+   ![Screenshot 2025-05-27 125025](https://github.com/user-attachments/assets/00ffff18-e6a5-4061-a453-cf4b76d4e09a)
+
 • Get the products that have the highest and lowest manufacturing costs. The final output should contain these fields, 
    
    **product_code**
@@ -56,6 +57,7 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
    **product** 
    
    **manufacturing_cost** 
+![Screenshot 2025-05-27 132954](https://github.com/user-attachments/assets/434e3e59-a5dc-4ae7-9590-0d3ac1f26233)
 
 • Generate a report which contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market.The final output contains these fields, 
 
@@ -64,7 +66,8 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
    **customer** 
 
    **average_discount_percentage** 
-   
+ ![Screenshot 2025-05-27 140129](https://github.com/user-attachments/assets/73b051a9-66d4-40ab-b4a6-b8a96748cc2b)
+  
 • Get the complete report of the Gross sales amount for the customer “Atliq Exclusive” for each month. This analysis helps to get an idea of low and high-performing months and take strategic decisions. The final report contains these columns: 
    
    **Month**
@@ -72,7 +75,8 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
    **Year** 
    
    **Gross sales Amount**
-   
+   ![image](https://github.com/user-attachments/assets/cf533a2d-b4d7-4f03-9f4d-ed51e65b9304)
+
 • In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields sorted by the 
    
    **total_sold_quantity,** 
@@ -80,6 +84,9 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
    **Quarter** 
    
    **total_sold_quantity**
+
+   ![image](https://github.com/user-attachments/assets/908a3ddf-2595-405e-ad48-4448181004c1)
+
    
 • Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains these fields, 
 
