@@ -5,11 +5,10 @@ Query 1.
 
 
 
-Query 2:   select distinct product 
+Query 2:   select  segment, count(distinct product_code) as product_count 
            from dim_product
-           join fact_sales_monthly
-           using (product_code)
-           where fiscal_year in (2020,2021);
+           group by segment
+           order by product_count desc;
 
 
 
@@ -123,7 +122,7 @@ Query 8:    SELECT
  Query 10: with cte as ( select 
                          division, 
                          product_code, 
-                         product, 
+                         concat(product," (", variant,")") as product, 
                          sum(sold_quantity)as total_sold_quantity , 
                          rank() over(partition by division order by sum(sold_quantity) desc) as rank_order 
           from fact_sales_monthly
