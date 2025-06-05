@@ -27,6 +27,11 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
 
   ![image](https://github.com/user-attachments/assets/b3ddfccd-a6c3-42dd-a982-25f307a121f8)
 
+• Power BI Visual
+
+  ![image](https://github.com/user-attachments/assets/d85ac409-a29e-448c-ba19-11f27588b35d)
+
+
 3. Provide a report with all the unique product counts for each  segment  and sort them in descending order of product counts. The final output contains 2 fields, 
   
    **segment,** 
@@ -36,6 +41,10 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
 • Output
 
 ![Screenshot 2025-05-26 160028](https://github.com/user-attachments/assets/63303c8a-0b13-423b-a7f1-9d3c7cfc931b)
+
+• Power BI Visual
+
+![image](https://github.com/user-attachments/assets/a180d2c2-fef6-48bd-9ded-a5bf7a70c0c5)
 
 4. Which segment had the most increase in unique products in 2021 vs 2020? The final output contains these fields, 
     
@@ -50,6 +59,10 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
  • Output  
    
 ![Screenshot 2025-05-27 125025](https://github.com/user-attachments/assets/00ffff18-e6a5-4061-a453-cf4b76d4e09a)
+
+• Power BI Visual
+
+![image](https://github.com/user-attachments/assets/e8d83b06-5ade-419d-98a5-f281b44f0e3f)
 
 5. Get the products that have the highest and lowest manufacturing costs. The final output should contain these fields, 
    
@@ -74,7 +87,11 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
 • Output  
 
  ![Screenshot 2025-05-27 140129](https://github.com/user-attachments/assets/73b051a9-66d4-40ab-b4a6-b8a96748cc2b)
-  
+
+• Power BI Visual
+
+![image](https://github.com/user-attachments/assets/8b6daf17-0fad-4546-b23c-8c60f3991832)
+
 7. Get the complete report of the Gross sales amount for the customer “Atliq Exclusive” for each month. This analysis helps to get an idea of low and high-performing months and take strategic decisions. The final report contains these columns: 
    
    **Month**
@@ -87,6 +104,11 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
 
    ![image](https://github.com/user-attachments/assets/cf533a2d-b4d7-4f03-9f4d-ed51e65b9304)
 
+• Power BI Visual
+
+![image](https://github.com/user-attachments/assets/551032f2-834b-4ae1-8792-e59c8bc2f2bf)
+
+
 8. In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields sorted by the total_sold_quantity, 
    
    **Quarter** 
@@ -96,6 +118,10 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
  • Output
  
  ![image](https://github.com/user-attachments/assets/908a3ddf-2595-405e-ad48-4448181004c1)
+
+• Power BI Visual
+
+![image](https://github.com/user-attachments/assets/d1a9de54-2920-429b-871c-9a6e6608b261)
 
 9. Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains these fields, 
 
@@ -108,6 +134,10 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
 • Output
 
 ![Screenshot 2025-05-29 121627](https://github.com/user-attachments/assets/72d7d4bb-4ab8-48c0-a7ed-2ca0f31c4665)
+
+• Power BI Visual
+
+![image](https://github.com/user-attachments/assets/c30a75b2-dc95-40ea-947a-a7aeb67d0564)
 
 10. Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields, 
    
@@ -124,6 +154,10 @@ Atliq Hardware identified a significant gap in its ability to make quick, data-i
 • Output
 
 ![image](https://github.com/user-attachments/assets/c901f0ff-9a82-4ced-8893-059661e2e47f)
+
+• Power BI Visual
+
+![image](https://github.com/user-attachments/assets/e07a2b4a-0c20-4d9c-b6ed-917a61eacb8d)
 
 # Conclusion
 
