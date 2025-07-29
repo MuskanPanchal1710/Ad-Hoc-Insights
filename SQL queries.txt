@@ -4,15 +4,7 @@ Query 1.
            where region = "APAC" and customer = "Atliq Exclusive";
 
 
-
-Query 2:   select  segment, count(distinct product_code) as product_count 
-           from dim_product
-           group by segment
-           order by product_count desc;
-
-
-
-Query 3:   with cte1 as (select count(distinct product_code) as unique_products_2020
+Query 2:   with cte1 as (select count(distinct product_code) as unique_products_2020
                          from fact_sales_monthly
                          where fiscal_year = 2020
                         ),
@@ -25,6 +17,12 @@ Query 3:   with cte1 as (select count(distinct product_code) as unique_products_
                       (unique_products_2021-unique_products_2020)*100/unique_products_2020 as percentage_change
                 from cte1
                 join cte2;
+
+
+Query 3:   select  segment, count(distinct product_code) as product_count 
+           from dim_product
+           group by segment
+           order by product_count desc;
 
 
 
